@@ -1,0 +1,15 @@
+.quickOrder__container{
+  text-align: center;
+  margin-bottom: 20px;
+  padding-bottom: 21px;
+}
+.quickOrder__submit{
+  background: red;
+  border-color: red;
+  color: white;
+  margin-top: 10px;
+  padding: 7px;
+}
+.quickOrder__label{
+  margin-right: 11px;
+}
